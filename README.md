@@ -1,2 +1,217 @@
 # Awesome-Variable-Fonts
 Curated list of variable fonts.
+
+### Variable Fonts
+
+- [Amstelvar](https://github.com/TypeNetwork/Amstelvar)
+- [Barlow](https://github.com/jpt/barlow)
+- [Plastic](http://www.plastic-typeface.com/)
+- ETC Trispace Variable
+- Denso
+- Whatchamacallit
+- IBM Plex Sans Variable
+- TINY 5x3
+- rotor
+- FK Roman VF
+- Gimlet Variable Bold Condensed
+- Graduate
+- Galien
+- Fira Code
+- Felona st
+- CoFo Peshka Variable
+- FK Grotesk VF
+- Objektiv VF
+- Mokoko VF
+- WHOA Spine
+- WHOA Top
+- Movement Variable
+- CSTM Xprmntl 03
+- Spezia
+- Fk Display VF
+- PF Mellon
+- PF Mellon (with OpenType stylistic alternates enabled)
+- Vinila Variable
+- Source Han VF Proto
+- Source Han Serif VF Proto
+- Source Han Sans VF Proto
+- Bree Variable
+- Bree Variable Oblique
+- Bree Cyrillic
+- Bree Cyrillic Oblique
+- Bree Greek
+- Bree Greek Oblique
+- Grafier Variable
+- Grafier Variable (with OpenType stylistic set 01 enabled)
+- Puffling Variable
+- Kick Variable
+- Orelo Variable
+- Roslindale Variable Italic
+- Dunkel Sans
+- iA Writer Mono
+- iA Writer Duo
+- iA Writer Quattro
+- Figuera Variable
+- Blimey Variable
+- strokeWeight
+- Prophet Variable
+- Newbery Sans Variable
+- Trilby Variable
+- Kern Cycle (no font variation by default)
+- Kern Cycle (with OpenType stylistic set 01 enabled)
+- Silkscreen
+- PhD Mono
+- Atypical
+- Nobilis
+- Portada Variable
+- Crimson Pro
+- Ginto
+- Handjet Variable
+- Charybdis
+- Marvin Visions
+- ETC Epilogue
+- Soulcraft
+- Ribbon
+- BPdotsSquares
+- Kayak
+- Wildberry
+- Haki
+- Titillium Web
+- Secuela
+- Fragua
+- Work Sans
+- BC Baseliner
+- Daffy
+- Zangezi
+- Boxout Variable
+- Monoweight No. 3
+- Funkis
+- Pappardelle Party
+- Marlik
+- Knicknack Variable
+- ETC Grandstander
+- ETC Anybody
+- Chicken Shop Gothic
+- Monument Grotesk
+- Cheee Variable
+- Tweak Display
+- Personalitype Variable
+- PF Grand Gothik
+- PF Grand Gothik (with OpenType stylistic sets 01 and 02 enabled)
+- PF Grand Gothik (with OpenType stylistic set 03 enabled)
+- Obviously Variable
+- Obviously Variable (with OpenType stylistic alternates enabled)
+- Scope
+- Ohno Blazeface Variable
+- Rocher Color
+- Minérale Variable
+- Inter
+- YWFT Fluctuant Variable
+- Bradley DJR Variable
+- Phantom Sans Variable
+- Metal Variable
+- Agrandir Variable
+- Manufaktur Variable
+- Hela
+- Output Sans Variable
+- Output Sans Variable (with OpenType stylistic sets 02, 04, and 07 enabled)
+- Hepta Slab
+- Map Roman Variable
+- Starla
+- Goiters Variable
+- Chill Sun
+- Gunta GX
+- Carbono
+- Quell Variable
+- Quell Variable Oblique
+- Jost
+- Slovic Variable
+- Merit Badge
+- Roslindale Variable Display
+- League Mono Variable
+- FF Meta Variable
+- Waba Border
+- Markazi Text
+- UT Morph
+- Compressa VF
+- Foreday
+- Duos Inline
+- Duos Write
+- Mixal Variable
+- Angus Variable
+- Eckmannpsych Variable
+- Sudo Variable
+- Venn VF
+- Protipo Variable Compact
+- Protipo Variable
+- Output Sans Hairlines Variable
+- Output Sans Hairlines Variable (with OpenType stylistic sets 02, 04, and 07 enabled)
+- Drive Variable
+- Drive Mono Variable
+- Drive Prop Variable
+- Fadoli Variable
+- Rhody Variable
+- Clother Variable
+- Lora
+- Phase-A
+- Phase-B
+- Phase-C
+- Phase-D
+- Phase-E
+- Phase-F
+- Phase-G
+- dT Jakob Variable
+- dT Jakob Variable (with OpenType standard ligatures enabled)
+- dT Jakob Variable (with OpenType discretionary ligatures enabled)
+- dT Jakob Variable (with OpenType contextual alternates enabled)
+- Extraordinaire Variable
+- Extraordinaire Variable Shade
+- Bluu Suuperstar Variable
+- Wind
+- Mutator Sans
+- Gnomon*
+- Myriad Variable Concept
+- Minion Variable Concept
+- Acumin Variable Pro
+- Jabin Swash
+- Nu Alfabet
+- Roboto Delta v1
+- Roboto Delta v2
+- Pappardelle
+- Sitka
+- Bahnschrift
+- Source Code Variable
+- Source Sans Variable
+- Source Serif Variable
+- Pen Model (axis 1)
+- Serif Length (axis 1)
+- Spur Angle (axis 1)
+- Curvature Broken (axes 1 & 2)
+- Curvature Wiggle (axes 1, 2, & 3)
+- Curvature Serif (axis 1)
+- Noboto Flex
+- Noboto Flex (with OpenType small caps on)
+- Noboto Flex (with OpenType unicase on)
+- Mada VF
+- Vesterbro Variable
+- Zinzin VF
+- Nunito VF
+- Avenir Next Variable
+- Decovar
+- Variable Poo Demo
+- Fit Variable
+- Selawik Variations
+- Buffalo Gals
+- Voto Serif GX
+- Karos Sans Variable
+- Zeitung VF
+- Cabin
+- Adobe Variable Font Prototype
+- Libre Franklin
+- Gingham
+- Dunbar
+- Lab DJR
+- Dunbar Tall n
+- Zycon
+- SF Display
+- SF Text
+- Skia
